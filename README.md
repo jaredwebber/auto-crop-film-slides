@@ -1,0 +1,1 @@
+# auto-crop-film-slides
